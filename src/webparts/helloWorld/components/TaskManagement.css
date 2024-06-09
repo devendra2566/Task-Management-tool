@@ -1,0 +1,12 @@
+.depth-0{
+    background-color: hsl(350, 86%, 77%);
+}
+.depth-1{
+    background-color: hsl(350, 80%, 88%);
+}
+.depth-2{
+    background-color: hsl(349, 37%, 88%);
+}
+.border{
+  margin: 5px;
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "task-management",
+    "libraryId": "c498cbff-f9fe-4bb2-8bd9-3c4b2c5c2fe1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "TaskManagement",
+    "solutionShortDescription": "TaskManagement description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
